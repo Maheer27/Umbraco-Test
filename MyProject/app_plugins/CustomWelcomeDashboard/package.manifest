@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/package.manifest",
+  "dashboards": [
+    {
+      "alias": "welcomeDashboard",
+      "view": "/app_plugins/CustomWelcomeDashboard/WelcomeDashboard.html",
+      "sections": [ "content" ],
+      "weight": -10,
+      "access": [
+        { "deny": "translator" },
+        { "grant": "admin" }
+      ]
+    }
+  ],
+  	"javascript": [
+        /*javascript files listed here*/
+    ],
+    "css": [
+        "~/App_Plugins/CustomWelcomeDashboard/customwelcomedashboard.css"
+    ]
+}

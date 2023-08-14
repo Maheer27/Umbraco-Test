@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lSOhTxoCyd/pXFVX79/etwnXf0z1NbJ2TbUvLxJRJqZHxSGycDV81Vwdf8zyMXL2OVC2l29s9au0/pGFXkIlTw==",
+  "success": true,
+  "projectFilePath": "D:\\Company\\Umrabo\\Umbraco-Test\\Umbraco.Common\\Umbraco.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdullah.Maher\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Abdullah.Maher\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Abdullah.Maher\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
